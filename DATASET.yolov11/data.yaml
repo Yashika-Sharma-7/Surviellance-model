@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 9
+names: ['Dead Vegetation', 'Dry Area', 'Flower bed', 'Lawn', 'Pathway', 'Vegetation', 'Water Body', 'Weeds', 'litter']
+
+roboflow:
+  workspace: yashikas-workspace-9krmh
+  project: dataset-wcleo
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yashikas-workspace-9krmh/dataset-wcleo/dataset/dataset

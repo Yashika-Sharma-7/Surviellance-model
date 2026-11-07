@@ -12,4 +12,3 @@ runs/
 combined_park_dataset/
 .streamlit/secrets.toml
 test_llm.py
-DATASET.yolov11/

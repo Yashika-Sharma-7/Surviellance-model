@@ -1,2 +1,5 @@
+DATASET.yolov11/*.jpg filter=lfs diff=lfs merge=lfs -text
+DATASET.yolov11/*.jpeg filter=lfs diff=lfs merge=lfs -text
+DATASET.yolov11/*.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
