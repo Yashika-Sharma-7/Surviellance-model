@@ -1,0 +1,10 @@
+ultralytics
+gradio
+roboflow
+PyYAML
+numpy
+opencv-python
+openai
+python-dotenv
+Pillow
+streamlit

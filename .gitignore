@@ -1,0 +1,15 @@
+# Local secrets: commit only the placeholder .env.example.
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+runs/
+combined_park_dataset/
+.streamlit/secrets.toml
+test_llm.py
+DATASET.yolov11/
